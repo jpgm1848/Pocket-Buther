@@ -1,4 +1,5 @@
 # Pocket Butcher https://pocket-butcher.netlify.app/
+# Given the ever changing nature of website deployment, I recommend you watch our demo video https://drive.google.com/file/d/1NqR0Pwzr3FhLPJq32-ozjdTdIKjEqBGs/view?ts=66291827
 
 # Overview
 The Pocket Butcher app is designed to provide users with a convenient platform to discover their preferred cuts of meat available at local butcher shops, enabling them to make informed decisions based on reviews from fellow users.
